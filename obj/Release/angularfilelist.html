@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body data-ng-app="modulehelper" data-ng-controller="UtilityController" ng-init='init()'>
+    <script src="scripts/angular.min.js"></script>
+    <ul>
+        <li ng-repeat="file in allfiles">
+            <a href='./uploads/{{file}}'>{{file}}</a>
+        </li>
+    </ul>
+    <h2>TO DO on!</h2>
+    <h2>{{'This is angular Working well'}}</h2>
+    <script src="scripts/coremodule.js"></script>
+</body>
+</html>

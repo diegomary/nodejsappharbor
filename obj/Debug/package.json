@@ -1,0 +1,15 @@
+{
+  "name": "NodejsWeb",
+  "version": "0.0.0",
+  "description": "NodejsWeb",
+  "main": "server.js",
+  "author": {
+    "name": "dburlando",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.8.3",
+    "express": "^4.9.4",
+    "multer": "^0.1.4"
+  }
+}

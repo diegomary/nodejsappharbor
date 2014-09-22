@@ -1,0 +1,5 @@
+C:\Users\dburlando\Desktop\NodejsWeb\NodejsWeb\obj\Debug\server.js
+C:\Users\dburlando\Desktop\NodejsWeb\NodejsWeb\obj\Debug\package.json
+C:\Users\dburlando\Desktop\NodejsWeb\NodejsWeb\obj\Debug\README.md
+C:\Users\dburlando\Desktop\NodejsWeb\NodejsWeb\obj\Debug\web.config
+C:\Users\dburlando\Desktop\NodejsWeb\NodejsWeb\obj\Debug\bin\Microsoft.NodejsTools.WebRole.dll
