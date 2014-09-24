@@ -69,6 +69,13 @@ app.get('/listwithangular', function (request, response) {
     });
 });
 
+app.get('/port', function (request, response) {
+  
+        response.send(process.env.port.toString());
+  
+});
+
+
 app.get('/filelistangular', function (request, response) { response.sendFile(path.resolve('angularfilelist.html')); });
 // here as contentype use the following:      Content-Type: application/x-www-form-urlencoded
 app.post('/', function (request, response) {
